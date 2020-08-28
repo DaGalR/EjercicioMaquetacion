@@ -1,0 +1,57 @@
+*{
+    text-align: center;
+
+}
+.banner{
+    background-color: #5b493c;
+    color: whitesmoke;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer{
+    background-color: #5b493c;
+    color: whitesmoke;
+    margin: auto;
+
+}
+.sidemenu{
+    background-color: #f99c3e;
+    color:black;
+    margin:auto;
+    height: 100%;
+    
+}
+.topmenu{
+    background-color: #c39182;
+    color: black;
+    margin: auto;
+}
+
+.mainContent{
+    background-color: #f2f2f2;
+    color:black;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.photoOdd{
+    background-color: #c5697a;
+    color:black;
+    margin: auto;
+
+}
+
+.photoEven{
+    background-color: #00a2b6;
+    color:black;
+    margin: auto;
+
+}
+
+@media only screen and (max-width: 768px) {
+    #side {
+        display: none;
+    }
+}
